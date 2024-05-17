@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vamshidevv/test-camera-.git/static/css/main.396ae493.css",
+    "main.js": "/vamshidevv/test-camera-.git/static/js/main.2e7ffa17.js",
+    "static/js/453.d3cdb6a2.chunk.js": "/vamshidevv/test-camera-.git/static/js/453.d3cdb6a2.chunk.js",
+    "static/media/ajay-koli.jpeg": "/vamshidevv/test-camera-.git/static/media/ajay-koli.22849c1c0241484e91b2.jpeg",
+    "static/media/second.png": "/vamshidevv/test-camera-.git/static/media/second.adfa3773847f12d2efb2.png",
+    "static/media/fifth.png": "/vamshidevv/test-camera-.git/static/media/fifth.c486d9da1a010566d6e6.png",
+    "static/media/fourth.png": "/vamshidevv/test-camera-.git/static/media/fourth.e1d691e8a6dbfd20838f.png",
+    "static/media/sixth.png": "/vamshidevv/test-camera-.git/static/media/sixth.bd601b9b7407da1a3b67.png",
+    "static/media/seventh.png": "/vamshidevv/test-camera-.git/static/media/seventh.da354caa1bae0b1ad03d.png",
+    "static/media/third.png": "/vamshidevv/test-camera-.git/static/media/third.196a313c6e2b7d568686.png",
+    "static/media/first.png": "/vamshidevv/test-camera-.git/static/media/first.bce5c0c99112325f1be0.png",
+    "static/media/webm": "/vamshidevv/test-camera-.git/static/media/7e870c0f9d4f401194ae519a8aa5b1d4.6f8935307952a3fc8eaa.webm",
+    "static/media/back.jpg": "/vamshidevv/test-camera-.git/static/media/back.b8b65abc63ba013d1f03.jpg",
+    "static/media/front.jpg": "/vamshidevv/test-camera-.git/static/media/front.9cce783082211347452a.jpg",
+    "index.html": "/vamshidevv/test-camera-.git/index.html",
+    "main.396ae493.css.map": "/vamshidevv/test-camera-.git/static/css/main.396ae493.css.map",
+    "main.2e7ffa17.js.map": "/vamshidevv/test-camera-.git/static/js/main.2e7ffa17.js.map",
+    "453.d3cdb6a2.chunk.js.map": "/vamshidevv/test-camera-.git/static/js/453.d3cdb6a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.396ae493.css",
+    "static/js/main.2e7ffa17.js"
+  ]
+}
